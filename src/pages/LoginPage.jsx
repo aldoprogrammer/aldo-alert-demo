@@ -11,7 +11,7 @@ function LoginPage() {
         // Perform login authentication here
         // For demonstration purposes, let's just show a success message
 
-        showAldoAlert('Hello, this is a toast message!', 'warning');
+        showAldoAlert('Hello, this is a toast message!', 'info');
 
     };
 
